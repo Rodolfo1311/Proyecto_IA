@@ -152,7 +152,6 @@ el modelo durante 4,633 pasos como podemos ver acontinuacion
 ![camion](https://user-images.githubusercontent.com/64815890/83317220-52b06d00-a1e8-11ea-9fe3-2f776dee25f6.jpeg)
 
 # COMMITS 
-##     Entregable       descripcion                          commit
-###       1           primer avance         9cec707224fa51cee9b93e72785c36b124c5ef9d
-
+### primer avance         9cec707224fa51cee9b93e72785c36b124c5ef9d
+### Segundo avance        3f730663ce62e903b9c9358b33367213e75add21
 
