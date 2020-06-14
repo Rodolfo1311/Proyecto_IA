@@ -150,3 +150,9 @@ el modelo durante 4,633 pasos como podemos ver acontinuacion
 ![bus2](https://user-images.githubusercontent.com/64815890/83317213-504e1300-a1e8-11ea-8d22-13679728d5b2.jpeg)
 ![bus3](https://user-images.githubusercontent.com/64815890/83317216-517f4000-a1e8-11ea-98dd-2a9b1e8e67d5.jpeg)
 ![camion](https://user-images.githubusercontent.com/64815890/83317220-52b06d00-a1e8-11ea-9fe3-2f776dee25f6.jpeg)
+
+# COMMITS 
+##     Entregable       descripcion                          commit
+###       1           primer avance         9cec707224fa51cee9b93e72785c36b124c5ef9d
+
+
